@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "243560901693",
+    "firebase_url": "https://letmeshop2-a7506.firebaseio.com",
+    "project_id": "letmeshop2-a7506",
+    "storage_bucket": "letmeshop2-a7506.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243560901693:android:f62a95ba429d484c",
+        "android_client_info": {
+          "package_name": "com.hfad.letmeshop2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243560901693-p91s1n9bfucu9i1msk2o7ujqpvdesofr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hfad.letmeshop2",
+            "certificate_hash": "b40428116e5a7397a7f1aafbdd6fea8c0b6a8057"
+          }
+        },
+        {
+          "client_id": "243560901693-04ru0j8qp03672m80442agoojtgqfe31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk6BVM_CFmFhGca1sak7lzApWt2Wc-L4M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243560901693-04ru0j8qp03672m80442agoojtgqfe31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
